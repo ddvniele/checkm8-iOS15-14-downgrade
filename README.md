@@ -16,7 +16,7 @@ this is a little guide that aims to help you downgrading your device from iOS 18
 > - [this file](https://github.com/ddvniele/checkm8-iOS15-14-downgrade/releases/download/downloads/mobileactivationd) (download it on your desktop)
 > - palera1n installed on your mac ([see here](https://palera.in/))
 > - the FileZilla app installed on your mac ([download here](https://github.com/ddvniele/checkm8-iOS15-14-downgrade/releases/download/downloads/FileZilla.zip))
-> - my fork of the SSHRD_Script repo cloned on your mac (by running this command on a terminal window: <code>git clone https://github.com/ddvniele/SSHRD_Script --recursive</code>)
+> - the SSHRD_Script cloned on your mac (by running this command on a terminal window: <code>git clone https://github.com/verygenericname/SSHRD_Script --recursive</code>)
 
 ## 1. GRABBING FILES
 the first thing to do is restoring your device to the latest iOS 16/17 version available with iTunes/Finder, and then normally activating it with the initial configuration setup as if it was a new device. then:
